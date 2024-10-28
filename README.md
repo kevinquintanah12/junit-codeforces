@@ -18,6 +18,7 @@ java -jar junit-platform-console-standalone-1.11.3.jar --class-path out --scan-c
 ![amusing-joke](https://github.com/user-attachments/assets/a068ed2f-0357-4a33-bbee-d5168bb3f63c)
 
 
-**in a meantime, take care of yourself** 
+**and in a meantime, take care of yourself**
+**goodbye ;)**
 
 
